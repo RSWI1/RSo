@@ -1,0 +1,22 @@
+[
+  {
+    "name": "GitHub",
+    "url": "https://github.com"
+  },
+  {
+    "name": "Apple Developer",
+    "url": "https://developer.apple.com"
+  },
+  {
+    "name": "Stack Overflow",
+    "url": "https://stackoverflow.com"
+  },
+  {
+    "name": "Jellyfin",
+    "url": "https://jellyfin.org"
+  },
+  {
+    "name": "Swift.org",
+    "url": "https://www.swift.org"
+  }
+]
