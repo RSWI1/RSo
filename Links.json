@@ -1,22 +1,22 @@
 [
   {
-    "name": "GitHub",
-    "url": "https://github.com"
+    "name": "SmartTube",
+    "url": "https://github.com/yuliskov/SmartTube/releases"
   },
   {
-    "name": "Apple Developer",
-    "url": "https://developer.apple.com"
+    "name": "streamflix-reborn",
+    "url": "https://github.com/RSWI1/RSo/releases/download/RS/streamflix-reborn-1-7-229.apk"
   },
   {
-    "name": "Stack Overflow",
-    "url": "https://stackoverflow.com"
+    "name": "stremio",
+    "url": "https://www.stremio.com/downloads"
   },
   {
     "name": "Jellyfin",
-    "url": "https://jellyfin.org"
+    "url": "https://github.com/jellyfin/jellyfin-androidtv/releases"
   },
   {
-    "name": "whyme????",
-    "url": "https://www.swift.org"
+    "name": "vanced",
+    "url": "https://vanced.to/youtube-revanced"
   }
 ]
