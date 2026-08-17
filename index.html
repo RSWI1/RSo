@@ -88,14 +88,14 @@
 <div class="grid" id="grid"></div>
 
 <script>
-  const JSON_FILE = "links.json";
+  const JSON_FILE = "Links.json";
 
   async function loadLinks() {
     const status = document.getElementById("status");
     const grid = document.getElementById("grid");
 
     try {
-      const res = await fetch(JSON_FILE);
+      const res = await fetch(JSON_FILE + "?t=" + Date.now());
       if (!res.ok) throw new Error("HTTP " + res.status);
       const links = await res.json();
 
