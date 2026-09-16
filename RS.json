@@ -1,0 +1,22 @@
+[
+  {
+    "name": "Anti Recoil Vertical",
+    "val": "43",
+    "group": "RECOIL"
+  },
+  {
+    "name": "Anti Recoil Horizontal",
+    "val": "3",
+    "group": "RECOIL"
+  },
+  {
+    "name": "AA Time",
+    "val": "3",
+    "group": "StickyAim"
+  },
+  {
+    "name": "AA Size",
+    "val": "15",
+    "group": "StickyAim"
+  }
+]
